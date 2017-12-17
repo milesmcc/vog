@@ -1,12 +1,22 @@
 # ![logo](icons/extract.svg) Vog
-View OpenGraph data conveniently with a browser extension. Instead of having to go to the source page to get `og:image`, for example, you can instead just click a button in your browser.
+View OpenGraph data conveniently with a browser extension. Instead of having to go to the source page to get `og:image`, for example, you can instead just click a button in your browser. (Downloading full-size photos off Instagram has never been easier...)
 
 ---
 
+Here is a demo of Vog in action:
 ![Demo](assets/demo.png)
-*A demo of Vog in action on this page.*
 
-# License
+## Privacy
+Vog doesn't share your data with anyone or anything. It makes no outside connections. It is only activated when you click the button in your toolbar. And even then, it doesn't *do* anything with your data—it just shows it to you. All of this is verifiable by looking at the [source](https://github.com/milesmcc/vog).
+
+## Contributing
+**Keep the code clean and crisp.** Pull requests welcome! Keep in mind the following:
+* Simpler is better.
+* This is not a tool for the masses. It serves a niche audience.
+* Privacy is of the utmost importance. There is no need for an extension as simple as this to ever share the user's data.
+* This extension is _not_ meant to serve the same function as the built-in developer tools. It's meant to be a shortcut; nothing more, nothing less.
+
+## License
 Vog is licensed under GPLv3.
 
 ```markdown
@@ -22,5 +32,5 @@ Vog is licensed under GPLv3.
 ```
 ([source](https://gist.github.com/kn9ts/cbe95340d29fc1aaeaa5dd5c059d2e60/a59913f620010b175cb2e2eaaf75ced35245f4bc))
 
-# Attribution
+## Attribution
 Browser icon: [Subdivide](https://thenounproject.com/search/?q=z&i=997689) by Andrejs Kirma from the Noun Project
