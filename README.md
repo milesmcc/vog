@@ -1,7 +1,10 @@
 # ![logo](icons/extract.svg) Vog
 View OpenGraph data conveniently with a browser extension. Instead of having to go to the source page to get `og:image`, for example, you can instead just click a button in your browser.
 
+---
+
 ![Demo](assets/demo.png)
+*A demo of Vog in action on this page.*
 
 # License
 Vog is licensed under GPLv3.
