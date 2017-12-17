@@ -6,3 +6,18 @@ body {
 .hidden {
   display: none;
 }
+
+.solid-hr {
+  border: none;
+  height: 1px;
+  color: #333; /* old IE */
+  background-color: #333; /* Modern Browsers */
+}
+
+.dashed-hr {
+  border: none;
+  height: 1px;
+  color: #333; /* old IE */
+  background-color: #333; /* Modern Browsers */
+  border-top: 1px dashed #333;
+}
