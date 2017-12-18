@@ -1,6 +1,8 @@
 # ![logo](icons/extract.svg) Vog
 View OpenGraph data conveniently with a browser extension. Instead of having to go to the source page to get `og:image`, for example, you can instead just click a button in your browser. (Downloading full-size photos off Instagram has never been easier...)
 
+[![Add to Firefox](assets/add_to_firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/vog/)
+
 ---
 
 Here is a demo of Vog in action:
